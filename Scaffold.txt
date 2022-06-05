@@ -1,1 +1,1 @@
-Scaffold-DbContext "Data Source=NOTE0113B3\SQLEXPRESS; initial catalog=lattine; user Id=sa; pwd=Senai@132;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context lattineContext -force
+Scaffold-DbContext ""Server=tcp:lattineservidor.database.windows.net,1433;Initial Catalog=lattine;Persist Security Info=False;User ID=lattine;Password=Senai@132;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
